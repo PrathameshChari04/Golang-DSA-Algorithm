@@ -4,5 +4,6 @@ use (
 	./Arrays
 	./Inputs
 	./Introduction
+	./Slices
 	./Time
 )
