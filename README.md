@@ -1,4 +1,4 @@
-# Go Programming 2023
+# Go Programming 
 
 ### What is Go?
 

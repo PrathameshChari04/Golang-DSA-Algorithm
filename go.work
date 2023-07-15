@@ -2,8 +2,15 @@ go 1.19
 
 use (
 	./Arrays
+	./ForLoop
+	./If-Else
 	./Inputs
+	./Interfaces
 	./Introduction
+	./Maps
 	./Slices
+	./Structs
+	./Switch-Case
 	./Time
+	./WhileLoop
 )

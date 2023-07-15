@@ -16,4 +16,10 @@ func main() {
 
 	var languages = [4]string{"C","C++","C#","objective-c"}
 	fmt.Println("Programming Languages : ", languages)
+
+	lists := [10]int{1,2,3,4}
+
+	fmt.Println(lists)
+
+	
 }
