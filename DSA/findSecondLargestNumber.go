@@ -20,7 +20,8 @@ func secondLargest(data []int) int{
 }
 
 func main() {
-	arr := []int{1,3,2}
+	arr := []int{12, 35, 1, 10, 34, 1}
+	fmt.Println(arr)
 	result := secondLargest(arr)
 
 	if result != -1 {

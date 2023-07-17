@@ -9,7 +9,6 @@ func linearSearch(data []int, key int) bool {
 		if item == key {
 			return true
 		}
-		
 	}
 	return false
 }
